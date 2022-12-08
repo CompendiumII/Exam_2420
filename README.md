@@ -3,7 +3,8 @@
 ## Updating sofware on Ubuntu OS
 
 ```
-
+sudo get update
+sudo get upgrade
 ```
 
 
