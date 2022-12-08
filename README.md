@@ -84,3 +84,11 @@ WantedBy=multi-user.target
 The service RUNS, but I can't get it to work with sudo...
 ![service status](https://user-images.githubusercontent.com/46077062/206575586-f2f159e5-1b25-4f31-84e8-b2219ffb08d7.PNG)
 
+## Timer
+
+Here is the timer script...
+![timer](https://user-images.githubusercontent.com/46077062/206576264-636c1780-6474-4081-b856-53e00a2c9b77.PNG)
+
+And here is the status...
+![timers](https://user-images.githubusercontent.com/46077062/206576280-7ee6a9e8-3d22-41f1-a583-fdd81ba4368c.PNG)
+
